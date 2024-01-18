@@ -1,0 +1,9 @@
+.slide h1 { margin-bottom: 0 }
+
+.background {
+  background: #00D3DE;
+  padding: 2rem 0 2rem 0;
+  width: 690px;
+}
+
+.slidev-code-wrapper { width: 500px; }
