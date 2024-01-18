@@ -1,5 +1,5 @@
 
-![Logo](/logo.svg)
+![Logo](./public/logo.svg)
 
 # Technical Interviews in React
 
@@ -45,7 +45,7 @@ To deploy this project run
 
 ## Demo
 
-![Demo](/example.png)
+![Demo](./public/example.png)
 
 ## Authors
 
