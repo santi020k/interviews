@@ -63,3 +63,15 @@ src: ./pages/react/cover.md
 ---
 src: ./pages/patterns/cover.md
 ---
+
+<!-- Communication -->
+
+---
+src: ./pages/communication/cover.md
+---
+
+<!-- END -->
+
+---
+src: ./pages/end.md
+---
