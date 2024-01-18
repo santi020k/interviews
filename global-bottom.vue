@@ -7,7 +7,7 @@
         <img src="/logo.svg" alt="logo" class="w-8 h-8" />
       </a>
       <a href="https://github.com/santi020k/interviews" target="_blank" alt="GitHub" title="Open in GitHub"
-        class="text-xl slidev-icon-btn opacity-50 text-white !border-none !hover:text-white">
+        class="text-xl slidev-icon-btn opacity-50 text-white !border-none !hover:text-white flex flex-justify-center flex-items-center">
         <carbon-logo-github />
       </a>
     </div>
