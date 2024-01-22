@@ -12,3 +12,21 @@ routeAlias: communication
     Effective Communication 🗣️
   </h1>
 </div>
+
+<!-- Never -->
+
+---
+src: ./never.md
+---
+
+<!-- Humans -->
+
+---
+src: ./humans.md
+---
+
+<!-- Nerves -->
+
+---
+src: ./nerves.md
+---

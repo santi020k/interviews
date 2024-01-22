@@ -28,6 +28,12 @@ src: ./pages/title.md
 src: ./pages/content.md
 ---
 
+<!-- Communication -->
+
+---
+src: ./pages/communication/cover.md
+---
+
 <!-- HTML -->
 
 ---
@@ -62,12 +68,6 @@ src: ./pages/react/cover.md
 
 ---
 src: ./pages/patterns/cover.md
----
-
-<!-- Communication -->
-
----
-src: ./pages/communication/cover.md
 ---
 
 <!-- END -->

@@ -2,7 +2,7 @@
 layout: image
 image: /background-list.jpg
 transition: fade-out
-title: Blast Off In Technical Interviews
+title: Table of Content
 ---
 
 <div class="flex flex-justify-center h-full flex-col">
@@ -13,6 +13,9 @@ title: Blast Off In Technical Interviews
   </h1>
 
   <ul>
+    <li>
+      <a href="/communication">🗣️ Effective Communication</a>
+    </li>
     <li>
       <a href="/html">🌐 HTML Essentials</a>
     </li>
@@ -35,9 +38,6 @@ title: Blast Off In Technical Interviews
     <!-- <li>
       <a href="/practice">🛠️ Best Practices in Development</a>
     </li> -->
-    <li>
-      <a href="/communication">🗣️ Effective Communication</a>
-    </li>
   </ul>
 
   </div>

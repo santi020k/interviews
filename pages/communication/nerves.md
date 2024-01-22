@@ -3,11 +3,11 @@ layout: image
 image: /background-middle-title.jpg
 class: slide
 transition: fade-out
-title: Thanks For Coming!
+title: Nerves Are Your Worst Enemy
 ---
 
 <div class="flex h-full flex-items-center">
   <h1 class="text-left m-b-0 font-bold">
-    Thanks For Coming!
+    Nerves Are Your Worst Enemy
   </h1>
 </div>

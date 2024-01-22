@@ -45,7 +45,7 @@ To deploy this project run
 
 ## Demo
 
-![Demo](./public/example.png)
+![Demo](./public/example-old.png)
 
 ## Authors
 

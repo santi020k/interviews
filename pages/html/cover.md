@@ -12,3 +12,9 @@ routeAlias: html
     HTML Essentials 🌐
   </h1>
 </div>
+
+<!-- Semantic HTML -->
+
+---
+src: /pages/html/semantic/semantic.md
+---
