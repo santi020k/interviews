@@ -30,3 +30,33 @@ src: ./humans.md
 ---
 src: ./nerves.md
 ---
+
+<!-- Enthusiasm -->
+
+---
+src: ./enthusiasm.md
+---
+
+<!-- Concise -->
+
+---
+src: ./concise.md
+---
+
+<!-- Feedback -->
+
+---
+src: ./feedback.md
+---
+
+<!-- Mock -->
+
+---
+src: ./mock.md
+---
+
+<!-- links -->
+
+---
+src: ./links.md
+---
