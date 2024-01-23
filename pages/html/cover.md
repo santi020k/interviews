@@ -13,8 +13,20 @@ routeAlias: html
   </h1>
 </div>
 
-<!-- Semantic HTML -->
+<!-- Semantic -->
 
 ---
-src: /pages/html/semantic/semantic.md
+src: ./semantic.md
+---
+
+<!-- Attributes -->
+
+---
+src: ./attributes.md
+---
+
+<!-- All -->
+
+---
+src: ./all.md
 ---
