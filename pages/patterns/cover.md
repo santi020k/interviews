@@ -12,3 +12,39 @@ routeAlias: patterns
     Design Patterns 🏗️
   </h1>
 </div>
+
+<!-- What is -->
+
+---
+src: ./what-is.md
+---
+
+<!-- Patterns Types -->
+
+---
+src: ./patterns-types.md
+---
+
+<!-- Singleton -->
+
+---
+src: ./singleton.md
+---
+
+<!-- Module -->
+
+---
+src: ./module.md
+---
+
+<!-- Observer -->
+
+---
+src: ./observer.md
+---
+
+<!-- Links -->
+
+---
+src: ./links.md
+---
