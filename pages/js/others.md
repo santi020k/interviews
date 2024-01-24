@@ -13,15 +13,15 @@ title: Many Other things
   </h1>
 
   <ul>
-    <li> Data Attributes </li>
-    <li> Performance Optimizations </li>
-    <li> Accessibility </li>
-    <li> HTML5 API'S </li>
-    <li> Render-tree Construction </li>
-    <li> CSSOM </li>
-    <li> Meta tags </li>
-    <li> Shadow DOM </li>
-    <li> Web Components </li>
+    <li> Prototypical Inheritance </li>
+    <li> Inheritance Without Classes </li>
+    <li> Arrow function </li>
+    <li> XSS </li>
+    <li> CORS </li>
+    <li> Functional Programming and Side Effects </li>
+    <li> Null, Undefined and Falsy Values </li>
+    <li> This, Bind, Call, Apply  </li>
+    <li> Web Workers </li>
   </ul>
 
   </div>
