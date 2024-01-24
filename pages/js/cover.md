@@ -16,37 +16,61 @@ routeAlias: js
 <!-- Hoisting -->
 
 ---
-src: /pages/js/hoisting/hoisting.md
+src: ./hoisting/hoisting.md
 ---
 
 ---
-src: /pages/js/hoisting/example-var.md
+src: ./hoisting/example-var.md
 ---
 
 ---
-src: /pages/js/hoisting/example-const.md
+src: ./hoisting/example-const.md
 ---
 
 <!-- Closure -->
 
 ---
-src: /pages/js/closure/closure.md
+src: ./closure/closure.md
 ---
 
 ---
-src: /pages/js/closure/example-let.md
+src: ./closure/example-let.md
 ---
 
 ---
-src: /pages/js/closure/example-const.md
+src: ./closure/example-const.md
 ---
 
 <!-- Optional Chaining -->
 
 ---
-src: /pages/js/optional-chaining/optional-chaining.md
+src: ./optional-chaining/optional-chaining.md
 ---
 
 ---
-src: /pages/js/optional-chaining/example.md
+src: ./optional-chaining/example.md
+---
+
+<!-- Async -->
+
+---
+src: ./async.md
+---
+
+<!-- Event Loop -->
+
+---
+src: ./event-loop/event-loop.md
+---
+
+---
+src: ./event-loop/example-image.md
+---
+
+---
+src: ./event-loop/example-code.md
+---
+
+---
+src: ./event-loop/complex-example.md
 ---
