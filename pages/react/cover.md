@@ -12,3 +12,23 @@ routeAlias: react
     React Knowledge Check ⚛️
   </h1>
 </div>
+
+<!-- Features -->
+
+---
+src: ./features/features.md
+---
+
+---
+src: ./features/solution.md
+---
+
+<!-- Declarative vs Imperative -->
+
+---
+src: ./declarative-vs-imperative/declarative-vs-imperative.md
+---
+
+---
+src: ./declarative-vs-imperative/example.md
+---
