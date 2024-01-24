@@ -33,6 +33,12 @@ src: ./declarative-vs-imperative/declarative-vs-imperative.md
 src: ./declarative-vs-imperative/example.md
 ---
 
+<!-- JSX  -->
+
+---
+src: ./jsx.md
+---
+
 <!-- State vs Props -->
 
 ---
@@ -49,4 +55,10 @@ src: ./custom-hooks.md
 
 ---
 src: ./redux-zustand.md
+---
+
+<!-- Others  -->
+
+---
+src: ./others.md
 ---
