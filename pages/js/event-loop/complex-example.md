@@ -12,7 +12,7 @@ title: The Event Loop Complex Example Code
     # The Event Loop
   </h1>
 
-```ts {all|1|11|8|4|all} {lines:true} twoslash
+```ts {all|1|11|7-9|3-5|all} {lines:true} twoslash
 console.log('Start');
 
 setTimeout(() => {

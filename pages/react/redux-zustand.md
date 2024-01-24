@@ -8,6 +8,6 @@ title: Redux vs Zustand
 
 <div class="flex h-full flex-items-center">
   <h1 class="text-left m-b-0 font-bold">
-    Redux vs Zustand
+    Redux vs Zustand vs Context
   </h1>
 </div>

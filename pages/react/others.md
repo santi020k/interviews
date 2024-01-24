@@ -9,13 +9,13 @@ title: Many Other things
   <div class="background">
 
   <h1 class="text-left m-b-0 font-bold">
-    Many Other things...
+    # Many Other things...
   </h1>
 
   <ul>
-    <li> memo, useMemo, useCallback, Suspense, lazy </li>
+    <li> Memo, UseMemo, UseCallback, Suspense, Lazy </li>
     <li> Controlled and Uncontrolled Components  </li>
-    <li> Error handling, Erro boundary </li>
+    <li> Error handling, Error boundary </li>
     <li> PropTypes and defaultProps </li>
     <li> Lifting State Up </li>
     <li> Render Props vs HOC vs Hooks </li>

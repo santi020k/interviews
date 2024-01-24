@@ -12,21 +12,23 @@ title: Type Events in React with TypeScript
     # Type Events in React with TypeScript
   </h1>
 
-```tsx {all} {lines:true} twoslash
-// ✅ Correct way
-const handleClick = (event: React.MouseEvent<HTMLButtonElement>) => {
+```tsx {all} {lines:true}
+  // ✅ Correct way
+  const handleClick = (
+    event: React.MouseEvent<HTMLButtonElement>
+  ) => {
     console.log('click', event);
- };
+  };
 
- // ❌ Junior way
-const handleClick = (event: any | unknown) => {
+  // ❌ Junior way
+  const handleClick = (event: any | unknown) => {
     console.log('click', event);
- };
+  };
 
- // ❌ Mid way
-const handleClick = (event: Record<string, string>) => {
+  // ❌ Mid way
+  const handleClick = (event: Record<string, string>) => {
     console.log('click', event);
- };
+  };
 ```
 
   </div>

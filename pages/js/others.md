@@ -9,7 +9,7 @@ title: Many Other things
   <div class="background">
 
   <h1 class="text-left m-b-0 font-bold">
-    Many Other things...
+    # Many Other things...
   </h1>
 
   <ul>

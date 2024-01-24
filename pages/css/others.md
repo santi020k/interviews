@@ -9,7 +9,7 @@ title: Many Other things
   <div class="background">
 
   <h1 class="text-left m-b-0 font-bold">
-    Many Other things...
+    # Many Other things...
   </h1>
 
   <ul>
@@ -18,7 +18,7 @@ title: Many Other things
     <li> Flex vs Grid </li>
     <li> Media Queries </li>
     <li> *vh (dvh, lvh, svh) </li>
-    <li> css Animation </li>
+    <li> CSS Animation </li>
     <li> Pseudo-Clases and Pseudo-Elementos </li>
     <li> Tailwind and Other UI Libraries </li>
     <li> Mobile first </li>
