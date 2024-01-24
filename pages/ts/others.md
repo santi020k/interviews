@@ -13,15 +13,15 @@ title: Many Other things
   </h1>
 
   <ul>
-    <li> Prototypical Inheritance </li>
-    <li> Inheritance Without Classes </li>
-    <li> Arrow function </li>
-    <li> XSS </li>
-    <li> CORS </li>
-    <li> Functional Programming and Side Effects </li>
-    <li> Null, Undefined and Falsy Values </li>
-    <li> This, Bind, Call, Apply  </li>
-    <li> Web Workers </li>
+    <li> Public, Private and Protected </li>
+    <li> Any, unknown and as </li>
+    <li> Partial, Readonly and Record </li>
+    <li> Contextos, Redux with TS </li>
+    <li> Type ref, state, props and useEffect </li>
+    <li> Generics </li>
+    <li> Type external API's </li>
+    <li> Zod, Yup, Etc... </li>
+    <li> Discriminated Unions </li>
   </ul>
 
   </div>
