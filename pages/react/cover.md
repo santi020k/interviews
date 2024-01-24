@@ -32,3 +32,21 @@ src: ./declarative-vs-imperative/declarative-vs-imperative.md
 ---
 src: ./declarative-vs-imperative/example.md
 ---
+
+<!-- State vs Props -->
+
+---
+src: ./state-props.md
+---
+
+<!-- Custom Hooks -->
+
+---
+src: ./custom-hooks.md
+---
+
+<!-- Redux vs Zustand  -->
+
+---
+src: ./redux-zustand.md
+---
