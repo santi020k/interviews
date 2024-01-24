@@ -13,7 +13,7 @@ title: Many Other things
   </h1>
 
   <ul>
-    <li> Data Attributes </li>
+    <li> Asset optimization </li>
     <li> Performance Optimizations </li>
     <li> Accessibility </li>
     <li> HTML5 API'S </li>
