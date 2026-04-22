@@ -3,6 +3,12 @@
 
 # Technical Interviews in React
 
+## Talk recording and slides
+
+- **Surviving Technical Interviews in React** — ReactJS Medellín 2024 · [Video on YouTube](https://www.youtube.com/watch?v=UtBZP93cOUs) · [Slides](https://interviews.santi020k.com/1)
+
+---
+
 Join us for an engaging meetup where we'll delve into the intriguing realm of technical
 interviews within the React ecosystem! In this interactive talk, we'll tackle common
 questions that often arise during technical interviews for React-related positions.
