@@ -5,11 +5,18 @@
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
-    "export": "slidev export"
+    "export": "slidev export",
+    "verify": "npm run build"
   },
   "dependencies": {
-    "@slidev/cli": "^0.46.2",
-    "@slidev/theme-default": "latest",
-    "@slidev/theme-seriph": "latest"
+    "@slidev/cli": "52.19.1",
+    "@slidev/theme-default": "0.25.0",
+    "@slidev/theme-seriph": "0.25.0"
+  },
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "overrides": {
+    "dompurify": "3.4.14"
   }
 }

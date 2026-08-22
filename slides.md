@@ -10,7 +10,7 @@ favicon: '/favicon.svg'
 lineNumbers: true
 drawings:
   persist: false
-highlighter: shikiji
+highlighter: shiki
 exportFilename: slides
 mdc: true
 src: ./pages/start.md

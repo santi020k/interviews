@@ -17,6 +17,8 @@ and propel your career forward as a React developer.
 
 ## Run Locally
 
+Requires Node.js 22.18 or newer.
+
 Clone the project
 
 ```bash
@@ -32,7 +34,7 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  npm install
+  npm ci
 ```
 
 Start the server
@@ -48,6 +50,8 @@ To deploy this project run
 ```bash
   npm run build
 ```
+
+The generated deck is static and is deployed by Vercel. GitHub Actions is intentionally disabled for this repository so routine maintenance does not consume Actions minutes.
 
 ## Demo
 
