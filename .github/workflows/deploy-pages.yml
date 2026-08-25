@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - ci/github-pages-deployment
   workflow_dispatch:
 
 permissions:
@@ -42,7 +43,7 @@ jobs:
 
   deploy:
     environment:
-      name: github-pages
+      name: Production
       url: ${{ steps.deployment.outputs.page_url }}
     permissions:
       pages: write
