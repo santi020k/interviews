@@ -34,6 +34,13 @@ jobs:
       - name: Build slides
         run: npm run build
 
+      - name: Materialize numbered slide routes
+        run: |
+          for slide in {1..200}; do
+            mkdir -p "dist/${slide}"
+            cp dist/index.html "dist/${slide}/index.html"
+          done
+
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
