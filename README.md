@@ -43,7 +43,10 @@ Start the server
 
 ## Deployment
 
-To deploy this project run
+GitHub Actions builds and deploys the slides to GitHub Pages whenever `main` changes.
+The production site is available at [interviews.santi020k.com](https://interviews.santi020k.com/).
+
+To verify the production build locally, run:
 
 ```bash
   npm run build
