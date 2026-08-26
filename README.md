@@ -1,73 +1,42 @@
-
-![Logo](./public/logo.svg)
+![Technical Interviews in React logo](./public/logo.svg)
 
 # Technical Interviews in React
 
-## Talk recording and slides
+> [!IMPORTANT]
+> This repository is a read-only historical archive. The talk is complete, the
+> deployed slides are frozen, and no maintenance or dependency updates are planned.
 
-- **Surviving Technical Interviews in React** — ReactJS Medellín 2024 · [Video on YouTube](https://www.youtube.com/watch?v=UtBZP93cOUs) · [Slides](https://interviews.santi020k.com/1)
+Materials for **Surviving Technical Interviews in React**, presented at ReactJS
+Medellín in 2024 by [Santiago Molina](https://santi020k.com/).
 
----
+- [View the archived slides](https://interviews.santi020k.com/1/)
+- [Watch the recording on YouTube](https://www.youtube.com/watch?v=UtBZP93cOUs)
 
-Join us for an engaging meetup where we'll delve into the intriguing realm of technical
-interviews within the React ecosystem! In this interactive talk, we'll tackle common
-questions that often arise during technical interviews for React-related positions.
-We'll share experiences, practical strategies, and tips to excel in these processes
-and propel your career forward as a React developer.
+## About the talk
 
-## Run Locally
+The presentation covers common technical-interview topics across communication,
+HTML, CSS, JavaScript, TypeScript, React, and software-design patterns. It combines
+practical questions, examples, and advice for navigating React-focused interview
+processes.
 
-Clone the project
+## Repository contents
 
-```bash
-  git clone git@github.com:santi020k/interviews.git
-```
+- `slides.md`, `pages/`, `components/`, and `styles/` preserve the original Slidev source.
+- `public/` preserves the original images and presentation assets.
+- `docs/` is the immutable static snapshot served by GitHub Pages.
+- `archive/` preserves the retired npm manifests as text for historical provenance only.
 
-Go to the project directory
+The historical Slidev toolchain is intentionally no longer executable or monitored.
+Its generated output is committed directly, so the public site does not depend on npm,
+Vercel, a custom GitHub Actions workflow, or future package updates.
 
-```bash
-  cd interviews
-```
+## Preservation and deployment
 
-Install dependencies
+GitHub Pages publishes `docs/` directly from the `main` branch with Jekyll disabled.
+The custom domain is [interviews.santi020k.com](https://interviews.santi020k.com/),
+with HTTPS enforced. The repository and presentation are preserved as-is; changes,
+issues, pull requests, and support requests are not accepted.
 
-```bash
-  npm install
-```
+## Copyright
 
-Start the server
-
-```bash
-  npm run dev
-```
-
-## Deployment
-
-GitHub Actions builds and deploys the slides to GitHub Pages whenever `main` changes.
-The production site is available at [interviews.santi020k.com](https://interviews.santi020k.com/).
-
-To verify the production build locally, run:
-
-```bash
-  npm run build
-```
-
-## Demo
-
-![Demo](./public/example-old.png)
-
-## Authors
-
-- [@santi020k](https://www.github.com/santi020k)
-
-### 🚀 About Me
-I'm a seasoned Full Stack Developer with a strong focus on front-end development
-and a passion for leading tech teams to success. With over a decade of professional
-experience, I've mastered complex technologies and led teams to deliver high-quality
-solutions that align with business objectives. As a Tech Lead, I excel in crafting
-technology around the core business model, ensuring project success and exceeding
-expectations.
-
-## Documentation
-
-[Documentation](https://sli.dev/)
+© 2024 Santiago Molina. All rights reserved.
